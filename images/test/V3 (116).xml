@@ -1,0 +1,26 @@
+<annotation>
+	<folder>3f</folder>
+	<filename>image5.jpg</filename>
+	<path>C:\Users\HP\PycharmProjects\Final Yr Pro\3f\image5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>410</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nonacc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>555</xmin>
+			<ymin>133</ymin>
+			<xmax>688</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>
