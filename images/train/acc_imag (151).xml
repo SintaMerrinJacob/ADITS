@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Accident</folder>
+	<filename>test26_29.jpg</filename>
+	<path>C:\Users\SARAH\Downloads\Accident-20210110T094907Z-001\Accident\test26_29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>acc</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>807</xmin>
+			<ymin>273</ymin>
+			<xmax>1024</xmax>
+			<ymax>363</ymax>
+		</bndbox>
+	</object>
+</annotation>
